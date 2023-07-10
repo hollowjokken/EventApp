@@ -15,3 +15,13 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+
+
+
+
+Small demo: 
+
+https://github.com/hollowjokken/EventApp/assets/18312705/e5153bd9-dd32-4ee9-b541-ce5b56015e6d
+
