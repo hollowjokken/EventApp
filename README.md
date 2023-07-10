@@ -1,5 +1,4 @@
 In progress!
-![image](https://github.com/hollowjokken/EventApp/assets/18312705/d8de2f04-85c6-4ba4-a8b0-64f7ea24944a)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
